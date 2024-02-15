@@ -1,0 +1,8 @@
+Criar o projeto
+npx create-expo-app silvinhaHealthApp
+
+Adicionar o pacote para execução na WEB
+npx expo install react-dom react-native-web @expo/webpack-config 
+
+Executar o projeto
+npx expo start
