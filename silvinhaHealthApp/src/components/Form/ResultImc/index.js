@@ -5,7 +5,7 @@ export default function ResultImc(props) {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        {props.mesageResult}
+        {props.messageResult}
       </Text>
       <Text style={styles.textImc}>
         {props.resultImc}
